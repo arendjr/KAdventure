@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="Level.qml">src/Level.qml</file>
+        <file alias="Selector.qml">src/Selector.qml</file>
+        <file>images/background.png</file>
+        <file>images/blueblock.png</file>
+        <file>images/button.png</file>
+        <file>images/creature1down.png</file>
+        <file>images/creature1left.png</file>
+        <file>images/creature1right.png</file>
+        <file>images/creature1up.png</file>
+        <file>images/exit.png</file>
+        <file>images/explosion.png</file>
+        <file>images/gateclosed.png</file>
+        <file>images/gateopen.png</file>
+        <file>images/greenball.png</file>
+        <file>images/mine.png</file>
+        <file>images/player.png</file>
+        <file>images/raft.png</file>
+        <file>images/redblock.png</file>
+        <file>images/selector.png</file>
+        <file>images/water1.png</file>
+        <file>images/water2.png</file>
+        <file>images/water3.png</file>
+        <file>levels/level001</file>
+        <file>levels/level002</file>
+        <file>levels/level003</file>
+        <file>levels/level004</file>
+        <file>levels/level005</file>
+        <file>levels/level006</file>
+        <file>levels/level007</file>
+        <file>levels/level008</file>
+        <file>levels/level009</file>
+        <file>levels/level010</file>
+        <file>levels/level011</file>
+        <file>levels/level012</file>
+        <file>levels/level013</file>
+        <file>levels/level014</file>
+        <file>levels/level015</file>
+        <file>objects/BlueBlock.qml</file>
+        <file>objects/BouncingBall.qml</file>
+        <file>objects/BouncingBall_UpDown.qml</file>
+        <file>objects/Button.qml</file>
+        <file>objects/Creature1.qml</file>
+        <file>objects/Exit.qml</file>
+        <file>objects/Gate.qml</file>
+        <file>objects/Mine.qml</file>
+        <file>objects/Object.qml</file>
+        <file>objects/Player.qml</file>
+        <file>objects/Raft.qml</file>
+        <file>objects/RedBlock.qml</file>
+        <file>objects/TransporterDown.qml</file>
+        <file>objects/TransporterLeft.qml</file>
+        <file>objects/TransporterRight.qml</file>
+        <file>objects/TransporterUp.qml</file>
+        <file>objects/Water.qml</file>
+    </qresource>
+</RCC>
